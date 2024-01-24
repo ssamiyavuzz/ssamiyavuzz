@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssamiyavuzz
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Numpy, Pandas
+- 🌱 I’m currently learning Machine Learning, Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me syavuz1457@gmail.com
 
